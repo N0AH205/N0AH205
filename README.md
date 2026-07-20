@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Noah 👋
 
-<!--
-**N0AH205/N0AH205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and cybersecurity enthusiast from Indonesia.
 
-Here are some ideas to get you started:
+I enjoy building software that combines **web development, AI, automation, and security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔐 Pharma-RAG
+An AI-powered pharmaceutical knowledge retrieval system designed to provide structured, citation-aware answers from pharmaceutical data.
+
+**Tech:** Python · RAG · PubChem · Ollama · Qwen
+
+### 🦉 Hack-Owl
+A Discord bot and hackathon automation platform for managing communities and discovering hackathons.
+
+**Tech:** TypeScript · Discord.js · Playwright · Cheerio
+
+### 🎹 Numelo
+An online rich-text editor with support for custom numbered musical notation.
+
+**Tech:** TypeScript · React
+
+## 🛠️ Technologies
+
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Frontend:** React, Vite, Tailwind CSS  
+**Backend:** Node.js, PostgreSQL  
+**Tools & Infrastructure:** Git, Docker, Vercel, Supabase  
+**Interests:** Cybersecurity, Artificial Intelligence, Automation
+
+## 📫 Connect With Me
+
+🌐 [Portfolio](https://www.noah-stephen.com/)
+💻 [GitHub](https://github.com/NOAH205)
