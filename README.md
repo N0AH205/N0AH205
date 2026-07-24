@@ -39,3 +39,44 @@
 
 **Creative & Editing**
 <img src="https://img.shields.io/badge/DaVinci_Resolve-db2828?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+
+### ⭐ Selected Work
+
+---
+
+### 🤖 [AI Chatbot & E-Commerce Platform](#)
+**Problem** - Traditional storefronts lack interactive customer support; I wanted to merge a seamless shopping experience with intelligent automation.
+
+**Highlights**
+- Full-stack build: Next.js frontend + backend architecture designed and shipped end-to-end
+- Integrated LLM-powered conversational agents for automated customer workflows
+- Clean, user-centric interface without unnecessary promotional jargon
+- High-performance, scalable web architecture built with TypeScript and Tailwind CSS
+
+`Next.js` `TypeScript` `OpenAI APIs` `Tailwind CSS` · [Code](#)
+
+---
+
+### 🎲 [Byte Bets - Web3 Gaming App](#)
+**Problem** - Casino games lack on-chain transparency; I wanted a provably fair, decentralized gaming experience.
+
+**Highlights**
+- Decentralized casino-style games deployed on the Sepolia test network
+- Custom game mechanics including an interactive dice game interface
+- Integrated testnet token subscriptions and wallet connectivity
+- Custom frontend sidebar layout built for scalability
+
+`Solidity` `Sepolia` `Web3` `React` · [Code](#)
+
+---
+
+### ⚙️ [Automated Fingerprint Attendance System](#)
+**Problem** - Manual class roll-calls are inefficient; I needed a fast, reliable, and secure hardware tracking system.
+
+**Highlights**
+- Built a custom hardware prototype utilizing an ESP32 microcontroller
+- Integrated accurate fingerprint recognition (no RFID or facial recognition)
+- Connected hardware to Google Apps Script for real-time cloud data logging
+- Successfully deployed and utilized to manage a live classroom environment
+
+`ESP32` `C++` `Google Apps Script` `Hardware` · [Code](#)
