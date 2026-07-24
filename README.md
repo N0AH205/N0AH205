@@ -7,8 +7,6 @@
   <a href="https://www.noah-stephen.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+CiAgPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMjgiIGZpbGw9IiNmZmZmZmYiPjwvcmVjdD4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDYsIDEwNikiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iIzQyODVGNCI+PC9yZWN0PgogICAgPHJlY3QgeD0iMjEwIiB5PSIwIiB3aWR0aD0iOTAiIGhlaWdodD0iMzAwIiBmaWxsPSIjRUE0MzM1Ij48L3JlY3Q+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsMCA5MCwwIDMwMCwzMDAgMjEwLDMwMCIgZmlsbD0iI0QyRTNGQyI+PC9wb2x5Z29uPgogIDwvZz4KPC9zdmc+Cg==" alt="Portfolio" /></a>
   <a href="https://github.com/N0AH205"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://t.me/noahstephen121"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <br>
-  <img src="https://img.shields.io/github/followers/N0AH205?style=for-the-badge&color=007ec6" alt="Followers" />
 </div>
 
 <br>
