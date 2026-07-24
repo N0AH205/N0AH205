@@ -1,10 +1,13 @@
 <div align="center">
-  <h1>Hi, I'm Noah (Phosmo)</h1>
+  <h1>Hi, I'm Noah</h1>
   <p><b>Outside the box thinker with real results.</b></p>
   <p>Bridging full-stack development, custom hardware engineering, and Web3 architecture.</p>
 
   <!-- Professional Links -->
-  <a href="https://www.noah-stephen.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.noah-stephen.com/" style="text-decoration: none; color: black; font-weight: bold; font-family: sans-serif;">
+  <img src="https://www.noah-stephen.com/favicon.ico" width="24" style="vertical-align: middle; margin-right: 5px;" alt="Icon" />
+  PORTFOLIO
+</a>
   <a href="https://github.com/N0AH205"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://t.me/noahstephen121"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <br>
