@@ -76,16 +76,3 @@
 `Node.js` `Playwright` `Cheerio` `Discord API`
 
 ---
-
-### 🎲 Byte Bets — Web3 Gaming App
-
-**Problem** - Traditional gaming platforms lack transparency in their mechanics. I explored how blockchain technology could enable verifiable on-chain game mechanics.
-
-**Highlights**
-
-* Built decentralized casino-style games on the Sepolia testnet
-* Developed custom game mechanics and interactive interfaces
-* Integrated wallet connectivity and testnet transactions
-* Designed the frontend architecture for future expansion
-
-`Solidity` `Sepolia` `Web3` `React`
