@@ -34,7 +34,7 @@
 
 ### 🧠 Pharma RAG — AI-Powered Drug Information System
 
-**Problem** — Drug information is distributed across multiple pharmaceutical sources, making it difficult to obtain reliable, cited answers. I built a Retrieval-Augmented Generation (RAG) system that grounds every response in retrieved evidence instead of relying solely on LLM knowledge.
+**Problem** : Drug information is distributed across multiple pharmaceutical sources, making it difficult to obtain reliable, cited answers. I built a Retrieval-Augmented Generation (RAG) system that grounds every response in retrieved evidence instead of relying solely on LLM knowledge.
 
 **Highlights**
 
@@ -50,23 +50,23 @@
 
 ### 🛍️ KepoBelanja — Premium Interactive E-Commerce Platform
 
-**Problem** — Modern online stores often provide transactional experiences but lack engaging customer interactions and loyalty systems. KepoBelanja combines premium UI/UX with gamification to create a more immersive shopping experience.
+**Problem** : Many businesses rely on third-party marketplaces, where platform commissions reduce profit margins and limit control over the customer experience. KepoBelanja was developed as a standalone e-commerce platform, allowing the client to sell directly to customers while maintaining full ownership of their brand, loyalty programs, and sales.
 
 **Highlights**
 
-* Developed a modern full-stack e-commerce platform using Next.js
-* Built an interactive shopping experience with rich animations and glassmorphism UI
-* Implemented VIP loyalty systems and in-app gamification features
-* Designed responsive, reusable components with scalable frontend architecture
-* Optimized user experience with modern React patterns and state management
+* Built a full-stack e-commerce application using the Next.js App Router and TypeScript
+* Implemented global state management with Zustand for shopping cart and user interactions
+* Designed a VIP loyalty and gamification system to improve customer engagement and retention
 
-`Next.js` `React` `TypeScript` `Tailwind CSS v4` `Zustand`
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Zustand`
+
 
 ---
 
 ### 🎾 Vamos Arena — Digital Padel Court Booking Platform
 
-**Problem** — Sports facility management often relies on manual booking processes that create unnecessary operational overhead. Vamos Arena digitizes reservations while maintaining a serverless, low-maintenance architecture.
+**Problem** : Sports facility management often relies on manual booking processes that create unnecessary operational overhead. Vamos Arena digitizes reservations while maintaining low-maintenance architecture.
 
 **Highlights**
 
@@ -74,6 +74,5 @@
 * Built a fully serverless architecture with zero dedicated backend servers
 * Integrated Google Apps Script as an API gateway with Google Sheets as a real-time database
 * Designed booking verification, court scheduling, and facility management workflows
-* Created a modern, high-performance interface with a neo-brutalist design system
 
-`Next.js` `TypeScript` `Tailwind CSS v4` `Google Apps Script` `Google Sheets`
+`Next.js` `TypeScript` `Tailwind CSS` `Google Apps Script` `Google Sheets`
