@@ -30,49 +30,50 @@
 
 ---
 
-### ⭐ Selected Work
+## ⭐ Selected Work
 
-### 🤖 AI Chatbot & E-Commerce Platform
+### 🧠 Pharma RAG — AI-Powered Drug Information System
 
-**Problem** - Traditional storefronts lack interactive customer support. I built a platform combining a modern shopping experience with intelligent automation.
-
-**Highlights**
-
-* Built the full-stack application end-to-end
-* Integrated LLM-powered conversational agents
-* Designed a clean, user-focused interface
-* Built scalable frontend and backend architecture
-
-`Next.js` `TypeScript` `OpenAI APIs` `Tailwind CSS`
-
----
-
-### 🧠 Pharma-RAG — AI-Powered Drug Information System
-
-**Problem** - Drug information is spread across large and complex knowledge sources. I built a retrieval pipeline designed to find relevant information and provide grounded AI responses.
+**Problem** — Drug information is distributed across multiple pharmaceutical sources, making it difficult to obtain reliable, cited answers. I built a Retrieval-Augmented Generation (RAG) system that grounds every response in retrieved evidence instead of relying solely on LLM knowledge.
 
 **Highlights**
 
-* Built a retrieval-augmented generation pipeline
-* Integrated structured pharmaceutical data and semantic search
-* Designed context building and citation resolution systems
-* Implemented local LLM inference for AI-generated responses
+* Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline
+* Accepts SMILES strings and retrieves structured pharmaceutical information
+* Generates grounded responses with citations to minimize hallucinations
+* Designed retrieval, context-building, and local LLM inference pipelines
+* Returns structured outputs including Mechanism of Action, ADME, Chemical Structure, Indications, Contraindications, Adverse Effects, and Drug Interactions
 
 `Python` `RAG` `LLMs` `Ollama` `PostgreSQL`
 
 ---
 
-### 🛠️ Hackathon Discovery & Automation Platform
+### 🛍️ KepoBelanja — Premium Interactive E-Commerce Platform
 
-**Problem** - Finding relevant hackathons across multiple platforms is inefficient. I built an automated system that aggregates and processes hackathon information.
+**Problem** — Modern online stores often provide transactional experiences but lack engaging customer interactions and loyalty systems. KepoBelanja combines premium UI/UX with gamification to create a more immersive shopping experience.
 
 **Highlights**
 
-* Scraped and aggregated hackathon data from multiple platforms
-* Built automated data extraction pipelines
-* Used browser automation and anti-bot-resistant scraping techniques
-* Created a Discord bot to deliver relevant hackathon opportunities
+* Developed a modern full-stack e-commerce platform using Next.js
+* Built an interactive shopping experience with rich animations and glassmorphism UI
+* Implemented VIP loyalty systems and in-app gamification features
+* Designed responsive, reusable components with scalable frontend architecture
+* Optimized user experience with modern React patterns and state management
 
-`Node.js` `Playwright` `Cheerio` `Discord API`
+`Next.js` `React` `TypeScript` `Tailwind CSS v4` `Zustand`
 
 ---
+
+### 🎾 Vamos Arena — Digital Padel Court Booking Platform
+
+**Problem** — Sports facility management often relies on manual booking processes that create unnecessary operational overhead. Vamos Arena digitizes reservations while maintaining a serverless, low-maintenance architecture.
+
+**Highlights**
+
+* Developed a complete digital booking platform for a premium padel facility
+* Built a fully serverless architecture with zero dedicated backend servers
+* Integrated Google Apps Script as an API gateway with Google Sheets as a real-time database
+* Designed booking verification, court scheduling, and facility management workflows
+* Created a modern, high-performance interface with a neo-brutalist design system
+
+`Next.js` `TypeScript` `Tailwind CSS v4` `Google Apps Script` `Google Sheets`
