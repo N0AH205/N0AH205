@@ -48,7 +48,7 @@
 
 ---
 
-### 🛍️ KepoBelanja — Premium Interactive E-Commerce Platform
+### 🛍️ KepoBelanja — E-Commerce Platform
 
 **Problem** : Many businesses rely on third-party marketplaces, where platform commissions reduce profit margins and limit control over the customer experience. KepoBelanja was developed as a standalone e-commerce platform, allowing the client to sell directly to customers while maintaining full ownership of their brand, loyalty programs, and sales.
 
