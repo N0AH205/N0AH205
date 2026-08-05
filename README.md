@@ -13,8 +13,8 @@
 
 |                                                                                                                                                            |                                                                                                                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✔️ **Full-Stack Applications** - Building and shipping production-ready web applications with React, Next.js, TypeScript, and modern backend technologies. | ✔️ **AI-Powered Products** - Integrating LLMs, retrieval systems, and intelligent automation into practical applications.                                 |
-| ✔️ **Developer Tools** - Creating tools that automate workflows, aggregate information, and help developers discover and build faster.                     | ✔️ **Web3 Applications** - Building decentralized applications and experimenting with smart contracts, blockchain infrastructure, and on-chain mechanics. |
+|  **Full-Stack Applications** - Building and shipping production-ready web applications with React, Next.js, TypeScript, and modern backend technologies. |  **AI-Powered Products** - Integrating LLMs, retrieval systems, and intelligent automation into practical applications.                                 |
+|  **Developer Tools** - Creating tools that automate workflows, aggregate information, and help developers discover and build faster.                     |  **Web3 Applications** - Building decentralized applications and experimenting with smart contracts, blockchain infrastructure, and on-chain mechanics. |
 
 <br>
 
@@ -27,6 +27,8 @@
 **AI & Developer Tools** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
 **Web3** <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+---
 
 ### ⭐ Selected Work
 
