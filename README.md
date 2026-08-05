@@ -32,8 +32,6 @@
 
 ### ⭐ Selected Work
 
----
-
 ### 🤖 AI Chatbot & E-Commerce Platform
 
 **Problem** - Traditional storefronts lack interactive customer support. I built a platform combining a modern shopping experience with intelligent automation.
