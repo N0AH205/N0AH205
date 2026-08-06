@@ -32,7 +32,7 @@
 
 ## ⭐ Selected Work
 
-### 🧠 Pharma RAG — AI-Powered Drug Information System
+### 🧠 [Pharma RAG — AI-Powered Drug Information System](https://github.com/N0AH205/Pharmer)
 
 **Problem** : Drug information is distributed across multiple pharmaceutical sources, making it difficult to obtain reliable, cited answers. I built a Retrieval-Augmented Generation (RAG) system that grounds every response in retrieved evidence instead of relying solely on LLM knowledge.
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 🛍️ KepoBelanja — E-Commerce Platform
+### 🛍️ [KepoBelanja — E-Commerce Platform](https://github.com/N0AH205/KepoBelanja)
 
 **Problem** : Many businesses rely on third-party marketplaces, where platform commissions reduce profit margins and limit control over the customer experience. KepoBelanja was developed as a standalone e-commerce platform, allowing the client to sell directly to customers while maintaining full ownership of their brand, loyalty programs, and sales.
 
@@ -58,13 +58,11 @@
 * Implemented global state management with Zustand for shopping cart and user interactions
 * Designed a VIP loyalty and gamification system to improve customer engagement and retention
 
-
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Zustand`
-
 
 ---
 
-### 🎾 Vamos Arena — Digital Padel Court Booking Platform
+### 🎾 [Vamos Arena — Digital Padel Court Booking Platform](https://github.com/N0AH205/Vamos-Arena)
 
 **Problem** : Sports facility management often relies on manual booking processes that create unnecessary operational overhead. Vamos Arena digitizes reservations while maintaining low-maintenance architecture.
 
