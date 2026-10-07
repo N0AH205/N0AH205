@@ -8,32 +8,13 @@ Full-stack developer and hardware engineer building local AI systems, production
 
 ## Selected Engineering Work
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/N0AH205/Pharmer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Pharmer&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Pharma RAG" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/N0AH205/KepoBelanja">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=KepoBelanja&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="KepoBelanja" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/N0AH205/Vamos-Arena">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Vamos-Arena&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Vamos Arena" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/N0AH205/Knot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Knot&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Knot Audio" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/N0AH205/Pharmer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Pharmer&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Pharma RAG" /></a>
+  <a href="https://github.com/N0AH205/KepoBelanja"><img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=KepoBelanja&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="KepoBelanja" /></a>
+  <br/>
+  <a href="https://github.com/N0AH205/Vamos-Arena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Vamos-Arena&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Vamos Arena" /></a>
+  <a href="https://github.com/N0AH205/Knot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Knot&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Knot Audio" /></a>
+</div>
 
 ---
 
