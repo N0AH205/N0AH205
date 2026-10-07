@@ -8,11 +8,23 @@ Full-stack developer and hardware engineer building local AI systems, production
 
 ## Selected Engineering Work
 
-<a href="[https://github.com/N0AH205/Pharmer](https://github.com/N0AH205/Pharmer)"><img src="[https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Pharmer&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Pharmer&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)" alt="Pharma RAG" /></a>
-<br><br>
-<a href="[https://github.com/N0AH205/KepoBelanja](https://github.com/N0AH205/KepoBelanja)"><img src="[https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=KepoBelanja&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=KepoBelanja&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)" alt="KepoBelanja" /></a>
-<br><br>
-<a href="[https://github.com/N0AH205/Vamos-Arena](https://github.com/N0AH205/Vamos-Arena)"><img src="[https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Vamos-Arena&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Vamos-Arena&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)" alt="Vamos Arena" /></a>
+### Pharma RAG — Local AI Drug Information System
+Drug information is highly fragmented. To solve this, I engineered a local Retrieval-Augmented Generation (RAG) pipeline that grounds LLM responses in verifiable pharmaceutical evidence to eliminate hallucinations.
+*   **Architecture:** Processes SMILES strings to query structured data, utilizing ChromaDB for vector storage and retrieval.
+*   **Pipeline:** Built context-building and local inference pipelines that output structured medical data.
+*   **Stack:** `Python` `RAG` `Ollama` `ChromaDB` `PostgreSQL`
+
+### KepoBelanja — E-Commerce Architecture
+Built a standalone e-commerce platform designed to bypass third-party marketplace commissions and give the client full data ownership.
+*   **Architecture:** Developed with the Next.js App Router for server-side rendering performance.
+*   **State & Logic:** Implemented global state management via Zustand and engineered a custom VIP gamification system.
+*   **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
+
+### Vamos Arena — Serverless Padel Booking System
+Digitized reservations for a premium sports facility using a zero-maintenance, serverless architecture to reduce operational overhead.
+*   **Architecture:** Bypassed traditional backend servers by engineering an API gateway through Google Apps Script, using Google Sheets as a database.
+*   **Workflow:** Automated booking verification and court scheduling logic.
+*   **Stack:** `Next.js` `TypeScript` `Google Apps Script` `Tailwind CSS`
 
 ---
 
