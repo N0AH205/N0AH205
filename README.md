@@ -1,76 +1,42 @@
-<div align="center">
-  <h1>Hi, I'm Noah 👋</h1>
-  <p><b>Full-stack developer building ambitious products from idea to deployment.</b></p>
-  <p>Focused on AI-powered applications, full-stack development, developer tools, and Web3.</p>
+# Noah Stephen
 
-<a href="https://www.noah-stephen.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+CiAgPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMjgiIGZpbGw9IiNmZmZmZmYiPjwvcmVjdD4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDYsIDEwNikiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iIzQyODVGNCI+PC9yZWN0PgogICAgPHJlY3QgeD0iMjEwIiB5PSIwIiB3aWR0aD0iOTAiIGhlaWdodD0iMzAwIiBmaWxsPSIjRUE0MzM1Ij48L3JlY3Q+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsMCA5MCwwIDMwMCwzMDAgMjEwLDMwMCIgZmlsbD0iI0QyRTNGQyI+PC9wb2x5Z29uPgogIDwvZz4KPC9zdmc+Cg==" alt="Portfolio" /></a> <a href="https://github.com/N0AH205"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://t.me/noahstephen121"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+Full-stack developer and hardware engineer building local AI systems, production web applications, and physical computing projects. Based in Jakarta.
 
-</div>
-
-<br>
-
-### ✔️ What I Build
-
-|                                                                                                                                                            |                                                                                                                                                           |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Full-Stack Applications** - Building and shipping production-ready web applications with React, Next.js, TypeScript, and modern backend technologies. |  **AI-Powered Products** - Integrating LLMs, retrieval systems, and intelligent automation into practical applications.                                 |
-|  **Developer Tools** - Creating tools that automate workflows, aggregate information, and help developers discover and build faster.                     |  **Web3 Applications** - Building decentralized applications and experimenting with smart contracts, blockchain infrastructure, and on-chain mechanics. |
-
-<br>
-
-### 🧰 Tech Stack
-
-**Frontend & Full-Stack** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-**Backend & Data** <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-
-**AI & Developer Tools** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
-**Web3** <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+[Portfolio](https://www.noah-stephen.com/) • [GitHub](https://github.com/N0AH205) • [Contact](https://t.me/noahstephen121)
 
 ---
 
-## ⭐ Selected Work
+## Selected Engineering Work
 
-### 🧠 [Pharma RAG — AI-Powered Drug Information System](https://github.com/N0AH205/Pharmer)
+### Pharma RAG — Local AI Drug Information System
+Drug information is highly fragmented. To solve this, I engineered a local Retrieval-Augmented Generation (RAG) pipeline that grounds LLM responses in verifiable pharmaceutical evidence to eliminate hallucinations.
+*   **Architecture:** Processes SMILES strings to query structured data, utilizing ChromaDB for vector storage and retrieval.
+*   **Pipeline:** Built context-building and local inference pipelines that output structured medical data (Mechanism of Action, ADME, Adverse Effects).
+*   **Stack:** `Python` `RAG` `Ollama` `Qwen` `ChromaDB` `PostgreSQL`
 
-**Problem** : Drug information is distributed across multiple pharmaceutical sources, making it difficult to obtain reliable, cited answers. I built a Retrieval-Augmented Generation (RAG) system that grounds every response in retrieved evidence instead of relying solely on LLM knowledge.
+### KepoBelanja — E-Commerce Architecture
+Built a standalone e-commerce platform designed to bypass third-party marketplace commissions and give the client full data ownership.
+*   **Architecture:** Developed with the Next.js App Router for server-side rendering performance.
+*   **State & Logic:** Implemented global state management via Zustand and engineered a custom VIP gamification system for customer retention.
+*   **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
 
-**Highlights**
+### Vamos Arena — Serverless Padel Booking System
+Digitized reservations for a premium sports facility using a zero-maintenance, serverless architecture to reduce operational overhead.
+*   **Architecture:** Bypassed traditional backend servers by engineering an API gateway through Google Apps Script, using Google Sheets as a real-time database.
+*   **Workflow:** Automated booking verification, court scheduling, and facility management logic.
+*   **Stack:** `Next.js` `TypeScript` `Google Apps Script` `Tailwind CSS`
 
-* Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline
-* Accepts SMILES strings and retrieves structured pharmaceutical information
-* Generates grounded responses with citations to minimize hallucinations
-* Designed retrieval, context-building, and local LLM inference pipelines
-* Returns structured outputs including Mechanism of Action, ADME, Chemical Structure, Indications, Contraindications, Adverse Effects, and Drug Interactions
-
-`Python` `RAG` `LLMs` `Ollama` `PostgreSQL`
-
----
-
-### 🛍️ [KepoBelanja — E-Commerce Platform](https://github.com/N0AH205/KepoBelanja)
-
-**Problem** : Many businesses rely on third-party marketplaces, where platform commissions reduce profit margins and limit control over the customer experience. KepoBelanja was developed as a standalone e-commerce platform, allowing the client to sell directly to customers while maintaining full ownership of their brand, loyalty programs, and sales.
-
-**Highlights**
-
-* Built a full-stack e-commerce application using the Next.js App Router and TypeScript
-* Implemented global state management with Zustand for shopping cart and user interactions
-* Designed a VIP loyalty and gamification system to improve customer engagement and retention
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Zustand`
+### Hardware & Physical Computing
+I also design and build custom IoT and physical computing systems.
+*   **Focus:** Microcontroller programming, circuit wiring, and sensor integration.
+*   **Tech:** `ESP32` `Arduino` `C++` `BH1750 Sensors` `Lithium Power Modules`
 
 ---
 
-### 🎾 [Vamos Arena — Digital Padel Court Booking Platform](https://github.com/N0AH205/Vamos-Arena)
+## Core Technologies
 
-**Problem** : Sports facility management often relies on manual booking processes that create unnecessary operational overhead. Vamos Arena digitizes reservations while maintaining low-maintenance architecture.
-
-**Highlights**
-
-* Developed a complete digital booking platform for a premium padel facility
-* Built a fully serverless architecture with zero dedicated backend servers
-* Integrated Google Apps Script as an API gateway with Google Sheets as a real-time database
-* Designed booking verification, court scheduling, and facility management workflows
-
-`Next.js` `TypeScript` `Tailwind CSS` `Google Apps Script` `Google Sheets`
+```text
+Languages      : TypeScript, JavaScript, Python, C++, SQL
+Frontend       : React, Next.js, Tailwind CSS
+Backend & Data : Node.js, Express, FastAPI, PostgreSQL, Supabase, ChromaDB
+Hardware       : Arduino, ESP32, Sensor Integration
