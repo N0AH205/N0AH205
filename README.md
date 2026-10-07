@@ -8,28 +8,32 @@ Full-stack developer and hardware engineer building local AI systems, production
 
 ## Selected Engineering Work
 
-### Pharma RAG — Local AI Drug Information System
-Drug information is highly fragmented. To solve this, I engineered a local Retrieval-Augmented Generation (RAG) pipeline that grounds LLM responses in verifiable pharmaceutical evidence to eliminate hallucinations.
-*   **Architecture:** Processes SMILES strings to query structured data, utilizing ChromaDB for vector storage and retrieval.
-*   **Pipeline:** Built context-building and local inference pipelines that output structured medical data (Mechanism of Action, ADME, Adverse Effects).
-*   **Stack:** `Python` `RAG` `Ollama` `Qwen` `ChromaDB` `PostgreSQL`
-
-### KepoBelanja — E-Commerce Architecture
-Built a standalone e-commerce platform designed to bypass third-party marketplace commissions and give the client full data ownership.
-*   **Architecture:** Developed with the Next.js App Router for server-side rendering performance.
-*   **State & Logic:** Implemented global state management via Zustand and engineered a custom VIP gamification system for customer retention.
-*   **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
-
-### Vamos Arena — Serverless Padel Booking System
-Digitized reservations for a premium sports facility using a zero-maintenance, serverless architecture to reduce operational overhead.
-*   **Architecture:** Bypassed traditional backend servers by engineering an API gateway through Google Apps Script, using Google Sheets as a real-time database.
-*   **Workflow:** Automated booking verification, court scheduling, and facility management logic.
-*   **Stack:** `Next.js` `TypeScript` `Google Apps Script` `Tailwind CSS`
-
-### Hardware & Physical Computing
-I also design and build custom IoT and physical computing systems.
-*   **Focus:** Microcontroller programming, circuit wiring, and sensor integration.
-*   **Tech:** `ESP32` `Arduino` `C++` `BH1750 Sensors` `Lithium Power Modules`
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/N0AH205/Pharmer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Pharmer&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Pharma RAG" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/N0AH205/KepoBelanja">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=KepoBelanja&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="KepoBelanja" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/N0AH205/Vamos-Arena">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Vamos-Arena&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Vamos Arena" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/N0AH205/Knot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=N0AH205&repo=Knot&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" alt="Knot Audio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
