@@ -22,7 +22,7 @@ Built a standalone e-commerce platform designed to bypass third-party marketplac
 *   **Impact:** Deployed to production and currently processing live orders for over 1,000 customers.
 *   **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
 
-### [Vamos Arena / Serverless Padel Booking System](https://github.com/N0AH205/Vamos-Arena)
+### [Vamos Arena / Padel Booking System](https://github.com/N0AH205/Vamos-Arena)
 Digitized reservations for a premium sports facility using a zero-maintenance, serverless architecture to reduce operational overhead.
 *   **Architecture:** Bypassed traditional backend servers by engineering an API gateway through Google Apps Script, using Google Sheets as a database.
 *   **Workflow:** Automated booking verification and court scheduling logic.
@@ -31,7 +31,7 @@ Digitized reservations for a premium sports facility using a zero-maintenance, s
 
 ---
 
-## Core Technologies
+## Tech Stack
 
 ```text
 Languages      : TypeScript, JavaScript, Python, C++, SQL
