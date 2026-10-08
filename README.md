@@ -1,4 +1,4 @@
-# Noah Stephen
+Hello, I'm Noah Stephen 👋
 
 **Full-stack developer & hardware engineer** building local AI systems, production web applications, and physical computing projects.
 
