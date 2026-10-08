@@ -1,6 +1,6 @@
-Hello, I'm Noah Stephen 👋
+## Hello, I'm Noah Stephen 👋
 
-**Full-stack developer & hardware engineer** building local AI systems, production web applications, and physical computing projects.
+**Full-stack developer & hardware engineer** building local AI projects, production web applications, and physical computing projects.
 
 Jakarta, Indonesia · [Portfolio](https://www.noah-stephen.com/) · [Contact](https://t.me/noahstephen121)
 
