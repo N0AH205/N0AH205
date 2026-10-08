@@ -2,7 +2,7 @@
 
 Full-stack developer and hardware engineer building local AI systems, production web applications, and physical computing projects. Based in Jakarta.
 
-[Portfolio](https://www.noah-stephen.com/) • [GitHub](https://github.com/N0AH205) • [Contact](https://t.me/noahstephen121)
+[Portfolio](https://www.noah-stephen.com/) • [Contact](https://t.me/noahstephen121)
 
 ---
 
