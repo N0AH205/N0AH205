@@ -6,7 +6,7 @@ Jakarta, Indonesia · [Portfolio](https://www.noah-stephen.com/) · [Contact](ht
 
 ## Selected Work
 
-### [Pharma RAG / Local AI Drug Information System](https://github.com/N0AH205/Pharmer)
+### [Pharma RAG / AI Drug Information System](https://github.com/N0AH205/Pharmer)
 
 A local AI pharmaceutical research system combining chemical data retrieval, vector search, and LLM inference to help student researchers find and verify pharmaceutical information.
 
