@@ -1,6 +1,6 @@
 # Hello, I'm Noah Stephen 👋
-
-Full-stack developer & hardware engineer building local AI projects, production web applications, and physical computing projects.
+Full-stack developer, hardware engineer, and 2x International Cybersecurity Medalist (NUS) building local AI systems and production web applications.
+Jakarta, Indonesia · Portfolio · Contact
 
 Jakarta, Indonesia · [Portfolio](https://www.noah-stephen.com/) · [Contact](https://t.me/noahstephen121)
 
